@@ -1,5 +1,5 @@
 //
-// 1.
+// 1.Implement Binary Search
 const arr = [-3, -1, 4, 7, 9, 11, 14, 22, 26, 28, 36, 45, 67, 78, 88, 99];
 const binarySearch = (arr = [], num) => {
   let l = 0;
